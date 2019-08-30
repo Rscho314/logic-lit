@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/Rscho314/pengines_smalltalk.git
+[submodule "server"]
+	path = server
+	url = https://github.com/Rscho314/swilit.git
